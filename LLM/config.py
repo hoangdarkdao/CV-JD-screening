@@ -1,6 +1,40 @@
 import os
 
 
+def load_dotenv(path=None, override=False):
+    env_path = path or os.getenv("ENV_FILE", ".env")
+    if not os.path.exists(env_path):
+        return
+
+    with open(env_path, "r", encoding="utf-8") as file:
+        for raw_line in file:
+            line = raw_line.strip()
+            if not line or line.startswith("#"):
+                continue
+
+            if line.startswith("export "):
+                line = line[len("export ") :].strip()
+
+            if "=" not in line:
+                continue
+
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip()
+
+            if not key:
+                continue
+
+            if len(value) >= 2 and value[0] == value[-1] and value[0] in ("'", '"'):
+                value = value[1:-1]
+
+            if override or key not in os.environ:
+                os.environ[key] = value
+
+
+load_dotenv()
+
+
 def _env_int(name, default):
     value = os.getenv(name)
     if value is None or value.strip() == "":
