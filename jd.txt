@@ -1,0 +1,5 @@
+Job Requirements: AI Engineer
+- Extensive experience working with Transformer, Vision Transformer (ViT), or Masked Autoencoders (MAE) network architectures.
+- Proficient in fine-tuning LLM and Embedding Models using efficient parameter optimization techniques such as LoRA and QLoRA.
+- Ability to build and deploy Retrieval-Augmented Generation (RAG) systems using vector similarity calculation libraries such as HuggingFace and SentenceTransformers.
+- Required programming language: Python (PyTorch/TensorFlow).

@@ -1,0 +1,195 @@
+Graduated from a full-time university program in AI, Data Science, or Computer Science from a top-tier university in Hanoi, including Hanoi University of Science and Technology (HUST) or University of Technology – VNU (UET-VNU). Score: +4.0
+
+Graduated from a full-time university program in Information Technology from top-tier universities in Hanoi such as Posts and Telecommunications Institute of Technology (PTIT), Military Technical Academy (MTA), FPT University, or Phenikaa University. Score: +3.0
+
+Graduated from a closely related university with a strong mathematical foundation, such as Mathematics-Informatics, Electronics and Telecommunications, or Information Systems, from major universities in Hanoi. Score: +2.0
+
+Holds a Master's degree in Artificial Intelligence (AI), Machine Learning, or Data Science from a reputable university in Vietnam or abroad. Score: +2.0
+
+Holds a PhD in Deep Learning, Computer Vision, NLP, or Generative AI from developed countries or leading universities in Vietnam. Score: +3.0
+
+Graduated with Excellent grades or achieved Valedictorian/Salutatorian status in engineering (cumulative GPA of 3.6/4.0 or 9.0/10 or higher). Score: +2.0
+
+Graduated with Good grades in IT/AI (cumulative GPA of 3.2 - 3.59/4.0 or 8.0 - 8.9/10). Score: +1.0
+
+Studied in a talent-based, high-quality, or advanced program (e.g., ELITECH program at HUST, CLC program at UET-VNU) taught in English. Score: +1.0
+
+Received a university-level academic achievement scholarship or scholarships from major technology corporations (Vingroup, Viettel, FPT, Samsung) for two or more semesters. Score: +1.0
+
+Possesses a specialized certification in Machine Learning/Deep Learning from reputable international organizations (such as DeepLearning.AI, Udacity Nanodegree, AWS/Google Cloud Certified ML Engineer). Score: +1.0
+
+CV does not specify the particular major or the name of the university currently attending/graduated from. Score: -4.0
+
+University study duration exceeded 6 years (typically 4 years for a bachelor's degree, 5 years for an engineering degree) without a valid reason. Score: -3.0
+
+Cumulative grade point average (GPA below 2.5/4.0 or below 6.5/10). Score: -2.0
+
+Vague description of educational status, not specifying the start and end years (or expected graduation year). Score: -2.0
+
+A lengthy and space-consuming list of academic achievements from junior high school (Grade 2) or high school (Grade 3). Score: -1.0
+
+Incorrectly writing the official name of the university, using incorrect English formatting, or using incorrect abbreviations. Score: -1.0
+
+Studying at multiple universities simultaneously or changing majors frequently without completing any. Score: -2.0
+
+Providing transcripts showing many core engineering subjects (Calculus, Linear Algebra, DSA) with failing grades or requiring multiple retakes. Score: -2.0
+
+Applying for an AI Engineer position but graduating from a completely unrelated field (such as tourism, languages, construction) without any reputable IT/AI certifications for career change. Score: -3.0
+
+Claiming to have a Master's/PhD degree but the CV does not specify the thesis/dissertation topic or list any relevant research projects. Score: -1.0
+
+Having over 3 years of practical experience working as an AI Engineer, ML Engineer, or Data Scientist at reputable companies. Score: +5.0
+
+Having worked or interned at leading AI research institutes or centers in Hanoi such as VinAI Research, Viettel AI, FPT Smart Cloud, VNPT IT, or VNG. Score: +4.0
+
+Having successfully deployed at least one AI system to a real-world production environment, serving real users or integrating it into enterprise business systems. Score: +4.0
+
+Having experience in optimizing AI model performance (Model Optimization) such as applying Quantization, Pruning, Knowledge Distillation, converting SNPE format, TensorRT to reduce system latency. Score: +3.0
+
+Practical experience in building targeted AI Agent applications or integrating LLM in enterprises (using RAG techniques, Fine-tuning, Prompt Engineering, LangChain, LangGraph, tool-calling). Score: +3.0
+
+Experience in handling Big Data and building data pipelines (ETL) using specialized tools such as Apache Spark, Hadoop, Kafka, or Apache Airflow. Score: +3.0
+
+Previously held a Lead Engineer, Tech Lead, or Mentor position, successfully leading teams of 3 or more to develop technology products. Score: +3.0
+
+Experience working closely with DevOps/MLOps teams to design and automate CI/CD processes for AI models (using Docker, Kubernetes, Jenkins, GitLab CI). Score: +2.0
+
+Experience in developing advanced AI models in specific areas such as Computer Vision (YOLO, ResNet, OCR, eKYC) or NLP/Speech Processing (Transformer, PhoBERT, Whisper). Score: +2.0
+
+Practical experience working with Agile/Scrum methodologies in large-scale software/AI development projects. Score: +1.0
+
+High job hopping frequency in a short period (e.g., less than 6 months/company and repeating more than 3 times), indicating low commitment. Score: -4.0
+
+Large career gap of over 1 year without a clear reason or without supplementary self-learning activities. Score: -3.0
+
+Listing past jobs but the descriptions only vaguely state theoretical responsibilities, without specifying actual tasks and contributions. Score: -3.0
+
+Presenting work experience but completely lacking quantitative data or core performance metrics. Score: -2.0
+
+Listing work experience completely unrelated to the field and not related to engineering (such as waiting tables, tutoring, sales) takes up too much space in the CV. Score: -2.0
+
+Presenting work experience in a disorganized manner, not in chronological order (most recent experience at the top). Score: -2.0
+
+Using vague job titles, self-promoting seniority (for example, self-reporting as Senior AI Engineer while the total actual work time is less than 1 year). Score: -2.0
+
+Using paragraphs describing experience copied verbatim from the job description (JD) provided by the employer. Score: -1.0
+
+Providing false, fraudulent, or unauthorized reference information. Score: -1.0
+
+Incorrectly recording employment dates at previous companies (incorrect month or year compared to actual social insurance contribution data). Score: -2.0
+
+Proficient in Python programming language and possessing a solid understanding of data structures, algorithms, and object-oriented programming (OOP). Score: +3.0
+
+Proficient in at least one popular Deep Learning Framework such as PyTorch or TensorFlow/Keras. Score: +3.0
+
+Proficient in using standard data analysis and processing libraries of the Python ecosystem (NumPy, Pandas, Scikit-learn, Matplotlib). Score: +2.0
+
+Skilled in programming high-performance supporting languages ​​such as C/C++ or Java/Go for model embedding or developing optimized APIs. Score: +3.0
+
+Proficient in using popular database management systems including SQL (PostgreSQL, MySQL) and NoSQL (MongoDB, Redis). Score: +2.0
+
+Possesses strong skills in working with vector databases such as ChromaDB, Pinecone, Milvus, or Qdrant – a crucial component of RAG systems. Score: +2.0
+
+Proficient in containerization and application deployment tools such as Docker and Kubernetes to package stable AI models. Score: +2.0
+
+Knowledge and experience using Cloud AI services from major providers such as AWS (SageMaker), Google Cloud (Vertex AI), or Azure ML. Score: +3.0
+
+Proficient in MLOps/LLMOps and Observability tools to support monitoring and tracking models in the real world (such as MLflow, LangSmith, LangFuse, Weights & Biases). Score: +3.0
+
+Proficient in Linux/Ubuntu operating systems, Git/GitHub version control tools, and writing automation scripts using the Bash shell. Score: +2.0
+
+Lists too many programming languages ​​and technologies in a rambling way (keyword stuffing) without actually understanding their underlying principles. Score: -3.0
+
+Uses meaningless skill bar charts or self-scoring percentages for technical skills without a quantitative basis. Score: -2.0
+
+Completely lacks essential core skills required for an AI engineer (e.g., does not mention Python or any basic machine learning/deep learning libraries). Score: -4.0
+
+Lists technologies that are outdated or no longer widely used in modern AI projects. Score: -1.0
+
+Serious spelling errors in the names of core technologies and specialized libraries (e.g., misspelling 'Pytorch', 'Tensorlow', 'Scikit learn'). Score: -2.0
+
+Confusion regarding basic technical concepts (e.g., classifying Pandas and NumPy libraries as "Operating Systems"). Score: -2.0
+
+The CV completely fails to mention source code management skills using Git or working with the Linux command-line environment. Score: -2.0
+
+Declaring technical skills at the Expert level without any corresponding projects or real-world work experience to demonstrate them. Score: -2.0
+
+Focusing overly basic office skills (such as using MS Word and PowerPoint) as the main focus in the technical skills section of an AI Engineer. Score: -1.0
+
+The skills section is disorganized and not clearly categorized into groups (such as Languages, Frameworks, Databases, MLOps, DevOps). Score: -1.0
+
+Has a scientific research paper accepted for publication at Tier 1 global AI/ML conferences (such as CVPR, ICCV, NeurIPS, ICML, KDD, ACL, SIGIR). Score: +4.0
+
+Has a scientific paper published in other prestigious international conferences/journals (listed in Scopus Q1/Q2/Q3/Q4) or prestigious domestic conferences. Score: +2.0
+
+Achieved high rankings (Kaggle Master, Kaggle Grandmaster) or holds medals (Gold/Silver) in data analysis competitions on the Kaggle platform. Score: +3.0
+
+Own a high-quality personal GitHub repository, with open-source projects achieving 50 Stars or more, or with accepted pull requests to well-known AI libraries. Score: +2.0
+
+Achieved high awards (First, Second, Third) in programming competitions, technology hackathons, or national/provincial student Informatics/Mathematics Olympiads. Score: +2.0
+
+Independently built and completed at least one personal project, from data collection and model training to API writing and online demo deployment for user testing. Score: +2.0
+
+Developed practical Agentic AI applications integrating large LLM models via API or running locally to automate a specific business process. Score: +2.0
+
+Experience in developing AI systems that serve society or solve practical problems for the community, recognized by the press or government agencies. Score: +1.0
+
+Patent or utility solution related to AI/ML system algorithms or architectures in Vietnam or internationally. Score: +1.0
+
+AI products that have won prestigious national science and technology awards or major awards in the Vietnamese IT industry (such as the Vietnam Talent Award, the Sao Khue Award). Score: +1.0
+
+The projects listed in the CV are all very basic sample projects/assignments (such as handwritten digit recognition MNIST, p
+
+The project description is vague, failing to specify the dataset size, the applied model architecture, and the specific technical evaluation results. Score: -2.0
+
+Taking on a leading role in a large team project but lacking a deep understanding of the overall architecture in the detailed description. Score: -2.0
+
+Listing outdated technology projects (from 4-5 years ago) without any new projects demonstrating exposure to modern AI technologies. Score: -2.0
+
+Using 100% copied source code from the internet (forked from another GitHub repository) and renaming it without any personal improvements or contributions. Score: -2.0
+
+The project description uses overly clichéd language, heavily focused on commercial advertising rather than technical solutions. Score: -1.0
+
+Attaching dead demo links (broken links, server downtime) or requesting internal access that cannot be directly verified. Score: -1.0
+
+Incorrectly listing the author of a scientific research paper (e.g., arbitrarily placing oneself as the first author compared to the original). Score: -2.0
+
+Proficient in English for work, possessing a reputable international English certificate equivalent to IELTS 6.5 or higher, TOEIC 750 or higher, or TOEFL iBT 90 or higher. Score: +1.0
+
+Possessing a second foreign language certificate that effectively supports major software export markets in Hanoi, such as Japanese (JLPT N3 or higher) or Chinese (HSK 4 or higher). Score: +0.5
+
+The CV is professionally designed, with a scientific, easy-to-read single-column layout, well-distributed whitespace, and perfectly optimized for automated screening systems (ATS-friendly). Score: +1.0
+
+Complete and prominent contact information at the beginning of the CV (including a professional email address, active phone number, address in Hanoi, and a neatly customized LinkedIn link URL). Score: +0.5
+
+Uses strong and professional action verbs at the beginning of each experience description (e.g., Design, Optimization, Implementation, Training). Score: +0.5
+
+The CV is concise, perfectly summarizing all the most valuable information within 1 to a maximum of 2 A4 pages. Score: +0.5
+
+Use a modern sans-serif font (such as Arial, Helvetica, Calibri, Roboto) with a consistent font size of 10-12pt for clear content and lines. Score: +0.25
+
+Include a concise 3-4 sentence Professional Summary that immediately highlights years of experience, technological strengths, and greatest achievements. Score: +0.25
+
+Arrange all information items in reverse chronological order consistently throughout the document. Score: +0.25
+
+The CV content is up-to-date as of the application date and accurately reflects current professional activities and work. Score: +0.25
+
+Main spelling, typing, or grammatical errors in the CV (especially repetition of words or awkward sentence structure). Score: -3.0
+
+Using an unprofessional, childish email address or a personal nickname (e.g., satthudautruong9x@gmail.com). Score: -2.0
+
+A CV that is too long (over 3 pages) dilutes the information or too short (less than half a page of A4 paper) shows superficiality. Score: -2.0
+
+Using too many bright colors, fancy fonts that are difficult to read, or overusing gaudy pie charts/bar graphs. Score: -2.0
+
+Saving the CV in non-standard formats (such as .JPG, .PNG image files, .ZIP compressed files, or .doc Word files with font errors) instead of a standard .PDF file. Score: -2.0
+
+Using unprofessional or incomplete CV file naming conventions (e.g., naming the file 'CV_moi.pdf', 'cv_ai.pdf' instead of 'CV_AI_Engineer_NguyenVanA.pdf'). Score: -1.0
+
+Including an unprofessional profile picture (avatar), a selfie, a picnic photo, or a low-quality, blurry photo. Score: -2.0
+
+Including unnecessarily sensitive personal information in the CV (such as marital status, religion, height, weight, ID card number). Score: -1.0
+
+Using clichés and excessive self-praise (such as 'programming superhero', 'AI genius') without supporting data. Score: -1.0
+
+Automatically copying someone else's CV design template or using a pre-made template containing a lot of unedited junk information. Score: -1.0
