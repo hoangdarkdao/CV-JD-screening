@@ -72,7 +72,13 @@ def heuristic_split_cv(text):
             
     return sections
 
-def retrieve_and_build_context(raw_cv_list, jd_text, mandatory_keywords=None, blacklist_keywords=None):
+def retrieve_and_build_context(
+    raw_cv_list,
+    jd_text,
+    mandatory_keywords=None,
+    blacklist_keywords=None,
+    top_k=None,
+):
     """
     Pipeline Hybrid RAG cập nhật:
     Tách CV thành các trường Skill/Exp/Edu thông qua heuristic và tính toán similarity 
@@ -129,7 +135,8 @@ def retrieve_and_build_context(raw_cv_list, jd_text, mandatory_keywords=None, bl
         }
         
     sorted_cvs = sorted(filtered_cvs, key=lambda x: x["semantic_score"], reverse=True)
-    top_candidates = sorted_cvs[:LLMConfig.TOP_K_RAG]
+    top_k = top_k or LLMConfig.TOP_K_RAG
+    top_candidates = sorted_cvs[:top_k]
     
     for rank, cv in enumerate(top_candidates, start=1):
         cv["rag_context"] = (
